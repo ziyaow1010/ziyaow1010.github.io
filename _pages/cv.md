@@ -24,30 +24,32 @@ Publications
 ======
 (* = equal contribution)
 
+(* = equal contribution)
+
 <div class="selected-pubs">
 
 <p>
 <strong>Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding</strong><br>
 <strong>Ziyao Wang</strong>, Muneeza Azmat, Ang Li, Raya Horesh, Mikhail Yurochkin.<br>
-ICML 2025
+ICML 25
 </p>
 
 <p>
 <strong>FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations</strong><br>
 <strong>Ziyao Wang</strong>, Zheyu Shen, Yexiao He, Guoheng Sun, Hongyi Wang, Lingjuan Lyu, Ang Li.<br>
-<strong>NeurIPS 24</strong>
+NeurIPS 24
 </p>
 
 <p>
 <strong>FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent</strong><br>
 <strong>Ziyao Wang</strong>, Jianyu Wang, Ang Li.<br>
-<strong>ICLR 2024</strong>
+ICLR 24
 </p>
 
 <p>
 <strong>UPTON: Unattributable Authorship Text via Data Poisoning</strong><br>
 <strong>Ziyao Wang</strong>, Dongwon Lee, Thai Le.<br>
-<strong>EMNLP 2023</strong>
+EMNLP 23
 </p>
 
 <p>
@@ -83,25 +85,25 @@ Guoheng Sun, <strong>Ziyao Wang</strong>, Bowei Tian, Meng Liu, Zheyu Shen, Shwa
 <p>
 <strong>Towards counterfactual fairness through auxiliary variables</strong><br>
 Bowei Tian, <strong>Ziyao Wang</strong>, Shwai He, Wanghao Ye, Guoheng Sun, Yucong Dai, Yongkai Wu, Ang Li.<br>
-<strong>ICLR 25</strong>
+ICLR 25
 </p>
 
 <p>
 <strong>SHED: Shapley-Based Automated Dataset Refinement for Instruction Fine-Tuning</strong><br>
 Yexiao He, <strong>Ziyao Wang</strong>, Zheyu Shen, Guoheng Sun, Yucong Dai, Yongkai Wu, Hongyi Wang, Ang Li.<br>
-<strong>NeurIPS 24</strong>
+NeurIPS 24
 </p>
 
 <p>
 <strong>NetGuard: Protecting Commercial Web APIs from Model Inversion Attacks using GAN-generated Fake Samples</strong><br>
 Xueluan Gong, <strong>Ziyao Wang</strong>, Yanjiao Chen, Qian Wang, Cong Wang, Chao Shen.<br>
-<strong>WWW 23</strong>
+WWW 23
 </p>
 
 <p>
 <strong>EdgeLoRA: An Efficient Multi-Tenant LLM Serving System on Edge Devices</strong><br>
 Zheyu Shen, Yexiao He, <strong>Ziyao Wang</strong>, Yuning Zhang, Guoheng Sun, Wanghao Ye, Ang Li.<br>
-<strong>MobiSys 25</strong>
+MobiSys 25
 </p>
 
 <p>
@@ -113,31 +115,31 @@ Bowei Tian, <strong>Ziyao Wang</strong>, Meng Liu, Yucong Dai, Shwai He, Guoheng
 <p>
 <strong>Moderator: Moderating Text-to-Image Diffusion Models through Fine-grained Context-based Policies</strong><br>
 Peiran Wang, Qiyu Li, Longxuan Yu, <strong>Ziyao Wang</strong>, Ang Li, Haojian Jin.<br>
-<strong>CCS 24 (Distinguished Paper Award)</strong>
+CCS 24 (Distinguished Paper Award)
 </p>
 
 <p>
 <strong>Beowulf: Mitigating Model Extraction Attacks Via Reshaping Decision Regions</strong><br>
 Xueluan Gong, Rubin Wei, <strong>Ziyao Wang</strong>, Yuchen Sun, Jiawen Peng, Yanjiao Chen, Qian Wang.<br>
-<strong>CCS 24</strong>
+CCS 24
 </p>
 
 <p>
 <strong>A GAN-based Defense Framework against Model Inversion Attacks</strong><br>
 Xueluan Gong*, <strong>Ziyao Wang*</strong>, Yanjiao Chen, Qian Wang.<br>
-<strong>TIFS</strong>
+TIFS
 </p>
 
 <p>
 <strong>Kaleidoscope: Triggering Backdoor with RGB Filters</strong><br>
 Xueluan Gong*, <strong>Ziyao Wang*</strong>, Yuzhe Gu, Yanjiao Chen, Qian Wang.<br>
-<strong>TDSC</strong>
+TDSC
 </p>
 
 <p>
 <strong>KERBNET: A QoE-aware Kernel-Based Backdoor Attack Framework</strong><br>
 Xueluan Gong, Yanjiao Chen, Huayang Huang, Weihan Kong, <strong>Ziyao Wang</strong>, Qian Wang.<br>
-<strong>TDSC</strong>
+TDSC
 </p>
 
 </div>
@@ -146,4 +148,5 @@ Xueluan Gong, Yanjiao Chen, Huayang Huang, Weihan Kong, <strong>Ziyao Wang</stro
 .selected-pubs p { margin: 0 0 1.1rem; line-height: 1.55; }
 .selected-pubs strong { font-weight: 700; }
 </style>
+
 
