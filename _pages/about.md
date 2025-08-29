@@ -11,7 +11,7 @@ I’m currently a third-year Ph.D. student in the Department of Electrical and C
 
 I prefer simple, elegant approaches to improving the performance and efficiency of foundation models. I focus on developing advanced collaborative edge AI systems, with three priorities: performance, efficiency, and security.
 
-**Selected Publications**
+## **Selected Publications**
 
 (* = equal contribution) 
 
