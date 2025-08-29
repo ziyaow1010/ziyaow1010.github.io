@@ -15,6 +15,46 @@ I prefer simple, elegant approaches to improving the performance and efficiency 
 
 (* = equal contribution) 
 
+<div class="selected-pubs">
+
+<p>
+<strong>Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding. Forty-Second International Conference on Machine Learning</strong><br>
+<strong>Ziyao Wang</strong>, Muneeza Azmat, Ang Li, Raya Horesh, Mikhail Yurochkin.<br>
+ICML 2025
+</p>
+
+<p>
+<strong>FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations</strong><br>
+<strong>Ziyao Wang</strong>, Zheyu Shen, Yexiao He, Guoheng Sun, Hongyi Wang, Lingjuan Lyu, Ang Li.<br>
+<strong>NeurIPS 24</strong>
+</p>
+
+<p>
+<strong>FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent. The Twelfth International Conference on Learning Representations</strong><br>
+<strong>Ziyao Wang</strong>, Jianyu Wang, Ang Li.<br>
+<strong>ICLR 2024</strong>
+</p>
+
+<p>
+<strong>UPTON: Unattributable Authorship Text via Data Poisoning. The Findings of 2023 Conference on Empirical Methods in Natural Language Processing</strong><br>
+<strong>Ziyao Wang</strong>, Dongwon Lee, Thai Le.<br>
+<strong>EMNLP 2023</strong>
+</p>
+
+<p>
+<strong>Prada: Black-Box LLM Adaptation with Private Data on Resource-Constrained Devices</strong><br>
+<strong>Ziyao Wang</strong>, Yexiao He, Zheyu Shen, Yu Li, Guoheng Sun, Myungjin Lee, Ang Li.<br>
+<a href="https://arxiv.org/abs/2503.14932" target="_blank" rel="noopener">arXiv: 2503.14932</a>
+</p>
+
+</div>
+
+<style>
+.selected-pubs p { margin: 0 0 1.1rem; line-height: 1.55; }
+.selected-pubs strong { font-weight: 700; }
+</style>
+
+
 **Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding. Forty-Second International Conference on Machine Learning**
 
 **Ziyao Wang**, Muneeza Azmat, Ang Li, Raya Horesh, Mikhail Yurochkin.
@@ -33,9 +73,17 @@ ICML 2025
 
 **ICLR 2024**
 
-**Ziyao Wang**, Dongwon Lee, and Thai Le. UPTON: Unattributable Authorship Text via Data Poisoning. The Findings of 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 23).
+**UPTON: Unattributable Authorship Text via Data Poisoning. The Findings of 2023 Conference on Empirical Methods in Natural Language Processing**
 
-**Ziyao Wang**, Yexiao He, Zheyu Shen, Yu Li, Guoheng Sun, Myungjin Lee, Ang Li. Prada: Black-Box LLM Adaptation with Private Data on Resource-Constrained Devices. arXiv: 2503.14932.
+**Ziyao Wang**, Dongwon Lee, and Thai Le.
+
+**EMNLP 2023**
+
+**Prada: Black-Box LLM Adaptation with Private Data on Resource-Constrained Devices**
+
+**Ziyao Wang**, Yexiao He, Zheyu Shen, Yu Li, Guoheng Sun, Myungjin Lee, Ang Li. 
+
+**arXiv: 2503.14932.**
 
 **Ziyao Wang**, Bowei Tian, Yexiao He, Zheyu Shen, Luyang Liu, Ang Li. One Communication Round is All It Needs for Federated Fine-Tuning Foundation Models. arXiv: 2412.04650.
 
