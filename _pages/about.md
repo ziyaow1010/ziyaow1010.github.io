@@ -16,12 +16,22 @@ I prefer simple, elegant approaches to improving the performance and efficiency 
 (* = equal contribution) 
 
 **Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding. Forty-Second International Conference on Machine Learning**
+
 **Ziyao Wang**, Muneeza Azmat, Ang Li, Raya Horesh, Mikhail Yurochkin.
+
 ICML 2025
 
-**Ziyao Wang**, Zheyu Shen, Yexiao He, Guoheng Sun, Hongyi Wang, Lingjuan Lyu, Ang Li. FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations. The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 24).
+**FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations**
 
-**Ziyao Wang**, Jianyu Wang, Ang Li. FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent. The Twelfth International Conference on Learning Representations (ICLR 24).
+**Ziyao Wang**, Zheyu Shen, Yexiao He, Guoheng Sun, Hongyi Wang, Lingjuan Lyu, Ang Li. 
+
+**NeurIPS 24**
+
+**FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent. The Twelfth International Conference on Learning Representations**
+
+**Ziyao Wang**, Jianyu Wang, Ang Li. 
+
+**ICLR 2024**
 
 **Ziyao Wang**, Dongwon Lee, and Thai Le. UPTON: Unattributable Authorship Text via Data Poisoning. The Findings of 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 23).
 
