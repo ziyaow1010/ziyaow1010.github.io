@@ -61,19 +61,19 @@ ICML 2025
 
 <p>
 <strong>Invisible Tokens, Visible Bills: The Urgent Need to Audit Hidden Operations in Opaque LLM Services</strong><br>
-<strong>Guoheng Sun*, Ziyao Wang*</strong>, Xuandong Zhao, Bowei Tian, Zheyu Shen, Yexiao He, Jinming Xing, Ang Li.<br>
+Guoheng Sun*, <strong>Ziyao Wang*</strong>, Xuandong Zhao, Bowei Tian, Zheyu Shen, Yexiao He, Jinming Xing, Ang Li.<br>
 <a href="https://arxiv.org/abs/2505.18471" target="_blank" rel="noopener">arXiv: 2505.18471</a>
 </p>
 
 <p>
 <strong>A GAN-based Defense Framework against Model Inversion Attacks</strong><br>
-<strong>Xueluan Gong*, Ziyao Wang*</strong>, Yanjiao Chen, Qian Wang.<br>
+Xueluan Gong*, <strong>Ziyao Wang*</strong>, Yanjiao Chen, Qian Wang.<br>
 <strong>TIFS</strong>
 </p>
 
 <p>
 <strong>Kaleidoscope: Triggering Backdoor with RGB Filters. IEEE Transactions on Dependable and Secure Computing</strong><br>
-<strong>Xueluan Gong*, Ziyao Wang*</strong>, Yuzhe Gu, Yanjiao Chen, Qian Wang.<br>
+Xueluan Gong*, <strong>Ziyao Wang*</strong>, Yuzhe Gu, Yanjiao Chen, Qian Wang.<br>
 <strong>TDSC</strong>
 </p>
 
