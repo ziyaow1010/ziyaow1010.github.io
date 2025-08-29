@@ -68,13 +68,13 @@ ICML 2025
 <p>
 <strong>A GAN-based Defense Framework against Model Inversion Attacks</strong><br>
 <strong>Xueluan Gong*, Ziyao Wang*</strong>, Yanjiao Chen, Qian Wang.<br>
-<strong>TIFS<strong>
+<strong>TIFS</strong>
 </p>
 
 <p>
 <strong>Kaleidoscope: Triggering Backdoor with RGB Filters. IEEE Transactions on Dependable and Secure Computing</strong><br>
 <strong>Xueluan Gong*, Ziyao Wang*</strong>, Yuzhe Gu, Yanjiao Chen, Qian Wang.<br>
-<strong>TDSC<strong>
+<strong>TDSC</strong>
 </p>
 
 </div>
