@@ -1,0 +1,10 @@
+---
+title: "FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations"
+collection: publications
+permalink: /publication/flora
+date: 2024-12-01
+venue: "NeurIPS 2024"
+authors: "Ziyao Wang, Zheyu Shen, Yexiao He, Guoheng Sun, Hongyi Wang, Lingjuan Lyu, Ang Li"
+paperurl: "https://arxiv.org/abs/2412.04650"
+selected: true
+---
