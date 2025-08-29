@@ -22,7 +22,6 @@ Work experience
 
 Publications
 ======
-(* = equal contribution)
 
 (* = equal contribution)
 
