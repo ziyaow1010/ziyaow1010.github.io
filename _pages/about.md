@@ -15,7 +15,9 @@ I prefer simple, elegant approaches to improving the performance and efficiency 
 
 (* = equal contribution) 
 
-**Ziyao Wang**, Muneeza Azmat, Ang Li, Raya Horesh, Mikhail Yurochkin. Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding. Forty-Second International Conference on Machine Learning (ICML 25).
+**Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding. Forty-Second International Conference on Machine Learning**
+**Ziyao Wang**, Muneeza Azmat, Ang Li, Raya Horesh, Mikhail Yurochkin.
+ICML 2025
 
 **Ziyao Wang**, Zheyu Shen, Yexiao He, Guoheng Sun, Hongyi Wang, Lingjuan Lyu, Ang Li. FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations. The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 24).
 
