@@ -47,50 +47,39 @@ ICML 2025
 <a href="https://arxiv.org/abs/2503.14932" target="_blank" rel="noopener">arXiv: 2503.14932</a>
 </p>
 
+<p>
+<strong>One Communication Round is All It Needs for Federated Fine-Tuning Foundation Models</strong><br>
+<strong>Ziyao Wang</strong>, Bowei Tian, Yexiao He, Zheyu Shen, Luyang Liu, Ang Li.<br>
+<a href="https://arxiv.org/abs/2412.04650" target="_blank" rel="noopener">arXiv: 2412.04650</a>
+</p>
+
+<p>
+<strong>Predictive Auditing of Hidden Tokens in LLM APIs via Reasoning Length Estimation</strong><br>
+<strong>Ziyao Wang*</strong>, Guoheng Sun*, Yexiao He, Zheyu Shen, Bowei Tian, Ang Li.<br>
+<a href="https://arxiv.org/abs/2508.00912" target="_blank" rel="noopener">arXiv: 2508.00912</a>
+</p>
+
+<p>
+<strong>Invisible Tokens, Visible Bills: The Urgent Need to Audit Hidden Operations in Opaque LLM Services</strong><br>
+<strong>Guoheng Sun*, Ziyao Wang*</strong>, Xuandong Zhao, Bowei Tian, Zheyu Shen, Yexiao He, Jinming Xing, Ang Li.<br>
+<a href="https://arxiv.org/abs/2505.18471" target="_blank" rel="noopener">arXiv: 2505.18471</a>
+</p>
+
+<p>
+<strong>A GAN-based Defense Framework against Model Inversion Attacks</strong><br>
+<strong>Xueluan Gong*, Ziyao Wang*</strong>, Yanjiao Chen, Qian Wang.<br>
+<strong>TIFS<strong>
+</p>
+
+<p>
+<strong>Kaleidoscope: Triggering Backdoor with RGB Filters. IEEE Transactions on Dependable and Secure Computing</strong><br>
+<strong>Xueluan Gong*, Ziyao Wang*</strong>, Yuzhe Gu, Yanjiao Chen, Qian Wang.<br>
+<strong>TDSC<strong>
+</p>
+
 </div>
 
 <style>
 .selected-pubs p { margin: 0 0 1.1rem; line-height: 1.55; }
 .selected-pubs strong { font-weight: 700; }
 </style>
-
-
-**Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding. Forty-Second International Conference on Machine Learning**
-
-**Ziyao Wang**, Muneeza Azmat, Ang Li, Raya Horesh, Mikhail Yurochkin.
-
-ICML 2025
-
-**FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations**
-
-**Ziyao Wang**, Zheyu Shen, Yexiao He, Guoheng Sun, Hongyi Wang, Lingjuan Lyu, Ang Li. 
-
-**NeurIPS 24**
-
-**FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent. The Twelfth International Conference on Learning Representations**
-
-**Ziyao Wang**, Jianyu Wang, Ang Li. 
-
-**ICLR 2024**
-
-**UPTON: Unattributable Authorship Text via Data Poisoning. The Findings of 2023 Conference on Empirical Methods in Natural Language Processing**
-
-**Ziyao Wang**, Dongwon Lee, and Thai Le.
-
-**EMNLP 2023**
-
-**Prada: Black-Box LLM Adaptation with Private Data on Resource-Constrained Devices**
-
-**Ziyao Wang**, Yexiao He, Zheyu Shen, Yu Li, Guoheng Sun, Myungjin Lee, Ang Li. 
-
-**arXiv: 2503.14932.**
-
-**Ziyao Wang**, Bowei Tian, Yexiao He, Zheyu Shen, Luyang Liu, Ang Li. One Communication Round is All It Needs for Federated Fine-Tuning Foundation Models. arXiv: 2412.04650.
-
-**Ziyao Wang**, Guoheng Sun, Yexiao He, Zheyu Shen, Bowei Tian, Ang Li. Predictive Auditing of Hidden Tokens in LLM APIs via Reasoning Length Estimation. arXiv: 2508.00912.
-
-Guoheng Sun*, **Ziyao Wang***, Xuandong Zhao, Bowei Tian, Zheyu Shen, Yexiao He, Jinming Xing, Ang Li. Invisible Tokens, Visible Bills: The Urgent Need to Audit Hidden Operations in Opaque LLM Services. arXiv: 2505.18471. (*)
-
-Xueluan Gong*, **Ziyao Wang***, Yanjiao Chen, Qian Wang. A GAN-based Defense Framework against Model Inversion Attacks. IEEE Transactions on Information Forensics and Security (TIFS). (*)
-
-Xueluan Gong*, **Ziyao Wang***, Yuzhe Gu, Yanjiao Chen, Qian Wang. Kaleidoscope: Triggering Backdoor with RGB Filters. IEEE Transactions on Dependable and Secure Computing (TDSC). (*)
