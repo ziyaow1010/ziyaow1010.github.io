@@ -20,7 +20,7 @@ I prefer simple, elegant approaches to improving the performance and efficiency 
 <p>
 <strong>Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding. Forty-Second International Conference on Machine Learning</strong><br>
 <strong>Ziyao Wang</strong>, Muneeza Azmat, Ang Li, Raya Horesh, Mikhail Yurochkin.<br>
-ICML 2025
+<strong>ICML 2025</strong>
 </p>
 
 <p>
