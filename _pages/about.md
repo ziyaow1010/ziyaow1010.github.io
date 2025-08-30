@@ -26,7 +26,7 @@ I prefer simple, elegant approaches to improving the performance and efficiency 
 <p>
 <strong>FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations</strong><br>
 <strong>Ziyao Wang</strong>, Zheyu Shen, Yexiao He, Guoheng Sun, Hongyi Wang, Lingjuan Lyu, Ang Li.<br>
-<strong>NeurIPS 24</strong>
+<strong>NeurIPS 2024</strong>
 </p>
 
 <p>
