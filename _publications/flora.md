@@ -1,7 +1,7 @@
 ---
 title: "Flora: Federated fine-tuning large language models with heterogeneous low-rank adaptations"
 collection: publications
-category: conference
+category: manuscripts
 permalink: /publication/flora
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-12-10
