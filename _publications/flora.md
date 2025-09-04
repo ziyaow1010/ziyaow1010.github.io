@@ -6,7 +6,7 @@ permalink: /publication/flora
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-12-10
 venue: 'NeurIPS 2024'
-teaser: /images/pubs/flora_teaser.jpg
+teaser: /images/pubs/flora.pdf
 authors: "Ziyao Wang, Zheyu Shen, Yexiao He, Guoheng Sun, Hongyi Wang, Lingjuan Lyu, Ang Li"
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
