@@ -18,7 +18,7 @@ I prefer simple, elegant approaches to improving the performance and efficiency 
 <div class="selected-pubs">
 
 <p>
-<strong>Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding. Forty-Second International Conference on Machine Learning</strong><br>
+<strong>Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding</strong><br>
 <strong>Ziyao Wang</strong>, Muneeza Azmat, Ang Li, Raya Horesh, Mikhail Yurochkin.<br>
 <strong>ICML 2025</strong>
 </p>
@@ -30,13 +30,13 @@ I prefer simple, elegant approaches to improving the performance and efficiency 
 </p>
 
 <p>
-<strong>FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent. The Twelfth International Conference on Learning Representations</strong><br>
+<strong>FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent</strong><br>
 <strong>Ziyao Wang</strong>, Jianyu Wang, Ang Li.<br>
 <strong>ICLR 2024</strong>
 </p>
 
 <p>
-<strong>UPTON: Unattributable Authorship Text via Data Poisoning. The Findings of 2023 Conference on Empirical Methods in Natural Language Processing</strong><br>
+<strong>UPTON: Unattributable Authorship Text via Data Poisoning</strong><br>
 <strong>Ziyao Wang</strong>, Dongwon Lee, Thai Le.<br>
 <strong>EMNLP 2023</strong>
 </p>
@@ -72,7 +72,7 @@ Xueluan Gong*, <strong>Ziyao Wang*</strong>, Yanjiao Chen, Qian Wang.<br>
 </p>
 
 <p>
-<strong>Kaleidoscope: Triggering Backdoor with RGB Filters. IEEE Transactions on Dependable and Secure Computing</strong><br>
+<strong>Kaleidoscope: Triggering Backdoor with RGB Filters</strong><br>
 Xueluan Gong*, <strong>Ziyao Wang*</strong>, Yuzhe Gu, Yanjiao Chen, Qian Wang.<br>
 <strong>TDSC</strong>
 </p>
