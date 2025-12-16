@@ -50,3 +50,13 @@
 .selected-pubs strong {
   font-weight: 700;
 }
+
+/* Global typography tweaks */
+html { font-size: 15px; }          /* 默认通常 16px，这里整体缩小一点 */
+.page__content { font-size: 0.95em; line-height: 1.6; }
+
+/* Headings slightly smaller */
+.page__content h1 { font-size: 1.8em; }
+.page__content h2 { font-size: 1.35em; }
+.page__content h3 { font-size: 1.15em; }
+
