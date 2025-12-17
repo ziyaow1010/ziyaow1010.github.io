@@ -1,31 +1,33 @@
-@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400;600;700&family=Noto+Serif+SC:wght@400;600;700&display=swap");
 
-/* ===== Global font (明显变化) ===== */
-html, body {
-  font-family: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
-               Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif !important;
-  font-weight: 400;
+/* 统一中英文：英文 Source Serif 4；中文 Noto Serif SC（变化非常明显） */
+html body {
+  font-family: "Noto Serif SC", "Source Serif 4",
+               Georgia, "Times New Roman", Times, serif !important;
 }
 
-/* 不去覆盖 <i>，避免破坏图标字体 */
-body :is(p, li, a, div, span, small, strong, em, h1, h2, h3, h4, h5, h6) {
+/* 对所有文本元素强制继承（排除图标字体 i / fa / ai，避免图标乱码） */
+html body *:not(i):not(svg):not(path):not([class*="fa"]):not([class^="fa-"]):not([class*="ai"]):not([class^="ai-"]) {
   font-family: inherit !important;
 }
 
-h1, h2, h3, h4, h5, h6,
-.site-title, .page__title, .author__name {
-  font-weight: 600;
+/* 代码块保持等宽 */
+html body code,
+html body pre,
+html body kbd,
+html body samp {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+               "Liberation Mono", "Courier New", monospace !important;
 }
 
-/* ===== Unified layout (主页 & CV 一致) =====
-   关键：别把内容拉到 1500 那么宽；用 1180–1240 更像学术主页
-*/
+/* ===== 统一主页 & CV 的容器（居中 + 不贴边） ===== */
 :root {
   --container-max: 1200px;
-  --container-pad: 24px; /* 贴边问题主要靠这个 */
+  --container-pad: 24px;
 }
 
-.masthead__inner-wrap {
+html body .masthead__inner-wrap,
+html body #main {
   max-width: var(--container-max) !important;
   margin-left: auto !important;
   margin-right: auto !important;
@@ -33,20 +35,7 @@ h1, h2, h3, h4, h5, h6,
   padding-right: var(--container-pad) !important;
 }
 
-/* #main 是包含 sidebar + 正文的总容器 */
-#main {
-  max-width: var(--container-max) !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding-left: var(--container-pad) !important;
-  padding-right: var(--container-pad) !important;
-}
-
-/* 正文区域不要再被你之前的“拉满宽度”规则撑开 */
-.archive {
-  max-width: none !important;
-}
-
-/* 选刊排版 */
+/* pubs 排版 */
 .selected-pubs p { margin: 0 0 1.05rem; line-height: 1.55; }
 .selected-pubs strong { font-weight: 700; }
+
