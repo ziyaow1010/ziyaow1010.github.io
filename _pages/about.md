@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ziyao Wang (王子瑶)"
+title: "Ziyao Wang"
 author_profile: true
 redirect_from:
   - /about/
