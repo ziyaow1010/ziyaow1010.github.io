@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+html, body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+               "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif !important;
+}
+
+/* avoid breaking icon fonts */
+body :is(p, li, a, div, span, small, strong, em, h1, h2, h3, h4, h5, h6) {
+  font-family: inherit !important;
+}
+
+#main,
+.masthead__inner-wrap {
+  max-width: 1500px !important;
+  margin: 0 auto !important;
+}
+
+#main { padding: 0 1rem !important; }
