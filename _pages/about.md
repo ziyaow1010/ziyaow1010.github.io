@@ -74,37 +74,37 @@ My research focuses on collaborative foundation models and practical efficiency,
 (* = equal contribution)
 
 ### 2025
-- **ICML 2025:** *Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding*  
+- **[ICML]:** *Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding*  
   **Ziyao Wang**, Muneeza Azmat, Ang Li, Raya Horesh, Mikhail Yurochkin.
-- **ICLR 2025:** *Towards counterfactual fairness through auxiliary variables*  
+- **[ICLR]** *Towards counterfactual fairness through auxiliary variables*  
   Bowei Tian, **Ziyao Wang**, Shwai He, Wanghao Ye, Guoheng Sun, Yucong Dai, Yongkai Wu, Ang Li.
-- **arXiv:** *Prada: Black-Box LLM Adaptation with Private Data on Resource-Constrained Devices*  
+- **[arXiv]** *Prada: Black-Box LLM Adaptation with Private Data on Resource-Constrained Devices*  
   **Ziyao Wang**, Yexiao He, Zheyu Shen, Yu Li, Guoheng Sun, Myungjin Lee, Ang Li. [[PDF](https://arxiv.org/abs/2503.14932)]
-- **arXiv:** *One Communication Round is All It Needs for Federated Fine-Tuning Foundation Models*  
+- **[arXiv]** *One Communication Round is All It Needs for Federated Fine-Tuning Foundation Models*  
   **Ziyao Wang**, Bowei Tian, Yexiao He, Zheyu Shen, Luyang Liu, Ang Li. [[PDF](https://arxiv.org/abs/2412.04650)]
-- **arXiv:** *Predictive Auditing of Hidden Tokens in LLM APIs via Reasoning Length Estimation*  
+- **[arXiv]** *Predictive Auditing of Hidden Tokens in LLM APIs via Reasoning Length Estimation*  
   **Ziyao Wang**, Guoheng Sun, Yexiao He, Zheyu Shen, Bowei Tian, Ang Li. [[PDF](https://arxiv.org/abs/2508.00912)]
-- **arXiv:** *Invisible Tokens, Visible Bills: The Urgent Need to Audit Hidden Operations in Opaque LLM Services* (*co-first*)  
+- **[arXiv]** *Invisible Tokens, Visible Bills: The Urgent Need to Audit Hidden Operations in Opaque LLM Services* (*co-first*)  
   Guoheng Sun*, **Ziyao Wang***, Xuandong Zhao, Bowei Tian, Zheyu Shen, Yexiao He, Jinming Xing, Ang Li. [[PDF](https://arxiv.org/abs/2505.18471)]
-- **arXiv:** *CoIn: Counting the Invisible Reasoning Tokens in Commercial Opaque LLM APIs*  
+- **[arXiv]** *CoIn: Counting the Invisible Reasoning Tokens in Commercial Opaque LLM APIs*  
   Guoheng Sun, **Ziyao Wang**, Bowei Tian, Meng Liu, Zheyu Shen, Shwai He, Yexiao He, Wanghao Ye, Yiting Wang, Ang Li. [[PDF](https://arxiv.org/abs/2505.13778)]
-- **MobiSys 2025:** *EdgeLoRA: An Efficient Multi-Tenant LLM Serving System on Edge Devices*  
+- **[MobiSys]** *EdgeLoRA: An Efficient Multi-Tenant LLM Serving System on Edge Devices*  
   Zheyu Shen, Yexiao He, **Ziyao Wang**, Yuning Zhang, Guoheng Sun, Wanghao Ye, Ang Li.
 
 ### 2024
-- **NeurIPS 2024:** *FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations*  
+- **[NeurIPS]** *FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations*  
   **Ziyao Wang**, Zheyu Shen, Yexiao He, Guoheng Sun, Hongyi Wang, Lingjuan Lyu, Ang Li.
-- **ICLR 2024:** *FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent*  
+- **[ICLR]** *FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent*  
   **Ziyao Wang**, Jianyu Wang, Ang Li.
-- **CCS 2024 (Distinguished Paper Award):** *Moderator: Moderating Text-to-Image Diffusion Models through Fine-grained Context-based Policies*  
+- **[CCS (Distinguished Paper Award)]** *Moderator: Moderating Text-to-Image Diffusion Models through Fine-grained Context-based Policies*  
   Peiran Wang, Qiyu Li, Longxuan Yu, **Ziyao Wang**, Ang Li, Haojian Jin.
-- **CCS 2024:** *Beowulf: Mitigating Model Extraction Attacks Via Reshaping Decision Regions*  
+- **[CCS]** *Beowulf: Mitigating Model Extraction Attacks Via Reshaping Decision Regions*  
   Xueluan Gong, Rubin Wei, **Ziyao Wang**, Yuchen Sun, Jiawen Peng, Yanjiao Chen, Qian Wang.
 
 ### 2023
-- **EMNLP 2023:** *UPTON: Unattributable Authorship Text via Data Poisoning*  
+- **[EMNLP Findings]** *UPTON: Unattributable Authorship Text via Data Poisoning*  
   **Ziyao Wang**, Dongwon Lee, Thai Le.
-- **WWW 2023:** *NetGuard: Protecting Commercial Web APIs from Model Inversion Attacks using GAN-generated Fake Samples*  
+- **[WWW]** *NetGuard: Protecting Commercial Web APIs from Model Inversion Attacks using GAN-generated Fake Samples*  
   Xueluan Gong, **Ziyao Wang**, Yanjiao Chen, Qian Wang, Cong Wang, Chao Shen.
 
 **Full list:** see [/publications/](/publications/)  
