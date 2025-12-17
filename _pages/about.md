@@ -74,19 +74,19 @@ My research focuses on collaborative foundation models and practical efficiency,
 (* = equal contribution)
 
 ### 2025
-- **[ICML]:** *Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding*  
+- **[ICML]** *Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding*  
   **Ziyao Wang**, Muneeza Azmat, Ang Li, Raya Horesh, Mikhail Yurochkin.
 - **[ICLR]** *Towards counterfactual fairness through auxiliary variables*  
   Bowei Tian, **Ziyao Wang**, Shwai He, Wanghao Ye, Guoheng Sun, Yucong Dai, Yongkai Wu, Ang Li.
 - **[arXiv]** *Prada: Black-Box LLM Adaptation with Private Data on Resource-Constrained Devices*  
   **Ziyao Wang**, Yexiao He, Zheyu Shen, Yu Li, Guoheng Sun, Myungjin Lee, Ang Li. [[PDF](https://arxiv.org/abs/2503.14932)]
-- **[arXiv]** *One Communication Round is All It Needs for Federated Fine-Tuning Foundation Models*  
+- **[ArXiv]** *One Communication Round is All It Needs for Federated Fine-Tuning Foundation Models*  
   **Ziyao Wang**, Bowei Tian, Yexiao He, Zheyu Shen, Luyang Liu, Ang Li. [[PDF](https://arxiv.org/abs/2412.04650)]
-- **[arXiv]** *Predictive Auditing of Hidden Tokens in LLM APIs via Reasoning Length Estimation*  
+- **[ArXiv]** *Predictive Auditing of Hidden Tokens in LLM APIs via Reasoning Length Estimation*  
   **Ziyao Wang**, Guoheng Sun, Yexiao He, Zheyu Shen, Bowei Tian, Ang Li. [[PDF](https://arxiv.org/abs/2508.00912)]
-- **[arXiv]** *Invisible Tokens, Visible Bills: The Urgent Need to Audit Hidden Operations in Opaque LLM Services* (*co-first*)  
-  Guoheng Sun*, **Ziyao Wang***, Xuandong Zhao, Bowei Tian, Zheyu Shen, Yexiao He, Jinming Xing, Ang Li. [[PDF](https://arxiv.org/abs/2505.18471)]
-- **[arXiv]** *CoIn: Counting the Invisible Reasoning Tokens in Commercial Opaque LLM APIs*  
+- **[ArXiv]** *Invisible Tokens, Visible Bills: The Urgent Need to Audit Hidden Operations in Opaque LLM Services* (*co-first*)  
+  Guoheng Sun*, **Ziyao Wang**\*, Xuandong Zhao, Bowei Tian, Zheyu Shen, Yexiao He, Jinming Xing, Ang Li. [[PDF](https://arxiv.org/abs/2505.18471)]
+- **[ArXiv]** *CoIn: Counting the Invisible Reasoning Tokens in Commercial Opaque LLM APIs*  
   Guoheng Sun, **Ziyao Wang**, Bowei Tian, Meng Liu, Zheyu Shen, Shwai He, Yexiao He, Wanghao Ye, Yiting Wang, Ang Li. [[PDF](https://arxiv.org/abs/2505.13778)]
 - **[MobiSys]** *EdgeLoRA: An Efficient Multi-Tenant LLM Serving System on Edge Devices*  
   Zheyu Shen, Yexiao He, **Ziyao Wang**, Yuning Zhang, Guoheng Sun, Wanghao Ye, Ang Li.
