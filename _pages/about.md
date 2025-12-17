@@ -23,23 +23,23 @@ My research focuses on collaborative foundation models and practical efficiency,
 
 - **Federated & collaborative foundation models** (federated fine-tuning, personalization, communication-efficiency)
   - **NeurIPS 2024:** *FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations*  
-    Ziyao Wang, Zheyu Shen, Yexiao He, Guoheng Sun, Hongyi Wang, Lingjuan Lyu, Ang Li.
+    **Ziyao Wang**, Zheyu Shen, Yexiao He, Guoheng Sun, Hongyi Wang, Lingjuan Lyu, Ang Li.
   - **ICLR 2024:** *FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent*  
-    Ziyao Wang, Jianyu Wang, Ang Li.
+    **Ziyao Wang**, Jianyu Wang, Ang Li.
   - **arXiv:** *One Communication Round is All It Needs for Federated Fine-Tuning Foundation Models*  
-    Ziyao Wang, Bowei Tian, Yexiao He, Zheyu Shen, Luyang Liu, Ang Li. [[PDF](https://arxiv.org/abs/2412.04650)]
+    **Ziyao Wang**, Bowei Tian, Yexiao He, Zheyu Shen, Luyang Liu, Ang Li. [[PDF](https://arxiv.org/abs/2412.04650)]
 
 - **Efficient LLM systems** (parameter-efficient adaptation, decoding-time collaboration, deployment constraints)
   - **ICML 2025:** *Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding*  
-    Ziyao Wang, Muneeza Azmat, Ang Li, Raya Horesh, Mikhail Yurochkin.
+    **Ziyao Wang**, Muneeza Azmat, Ang Li, Raya Horesh, Mikhail Yurochkin.
   - **arXiv:** *Prada: Black-Box LLM Adaptation with Private Data on Resource-Constrained Devices*  
-    Ziyao Wang, Yexiao He, Zheyu Shen, Yu Li, Guoheng Sun, Myungjin Lee, Ang Li. [[PDF](https://arxiv.org/abs/2503.14932)]
+    **Ziyao Wang**, Yexiao He, Zheyu Shen, Yu Li, Guoheng Sun, Myungjin Lee, Ang Li. [[PDF](https://arxiv.org/abs/2503.14932)]
 
 - **Trustworthy LLM services** (hidden tokens, billing, safety at system level)
   - **arXiv:** *Predictive Auditing of Hidden Tokens in LLM APIs via Reasoning Length Estimation*  
-    Ziyao Wang, Guoheng Sun, Yexiao He, Zheyu Shen, Bowei Tian, Ang Li. [[PDF](https://arxiv.org/abs/2508.00912)]
+    **Ziyao Wang**, Guoheng Sun, Yexiao He, Zheyu Shen, Bowei Tian, Ang Li. [[PDF](https://arxiv.org/abs/2508.00912)]
   - **arXiv:** *Invisible Tokens, Visible Bills: The Urgent Need to Audit Hidden Operations in Opaque LLM Services* (*co-first*)  
-    Guoheng Sun*, Ziyao Wang*, Xuandong Zhao, Bowei Tian, Zheyu Shen, Yexiao He, Jinming Xing, Ang Li. [[PDF](https://arxiv.org/abs/2505.18471)]
+    Guoheng Sun*, **Ziyao Wang***, Xuandong Zhao, Bowei Tian, Zheyu Shen, Yexiao He, Jinming Xing, Ang Li. [[PDF](https://arxiv.org/abs/2505.18471)]
 
 ---
 
@@ -48,8 +48,8 @@ My research focuses on collaborative foundation models and practical efficiency,
 - **2025.08:** 🎉 I finished my Research internship at **Sony AI**. We submitted a paper about visual token compression in unified models.
 - **2025.06:** 🎉 One paper is accepted at **MobiSys 2025**.
 - **2025.02:** 🎉 One paper is accepted at **ICML 2025**.
-- **2024.10:** 🎉 Two papers are accepted accepted at **CCS 2024**. One of the papers received the **Distinguished Paper Award**. Congrats to all co-authors!
-- **2024.09:** 🎉 Two papers are accepted accepted at **NeurIPS 2024**.
+- **2024.10:** 🎉 Two papers are accepted at **CCS 2024**. One of the papers received the **Distinguished Paper Award**. Congrats to all co-authors!
+- **2024.09:** 🎉 Two papers are accepted at **NeurIPS 2024**.
 - **2024.08:** 🎉 I finished my Research internship at **IBM Research**.
 - **2024:** 🎉 One paper is accepted at **ICLR 2024**.
 - **2023:** 🎉 One paper is accepted at **EMNLP 2023**.
