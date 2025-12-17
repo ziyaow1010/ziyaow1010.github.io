@@ -39,3 +39,28 @@ html body #main {
 .selected-pubs p { margin: 0 0 1.05rem; line-height: 1.55; }
 .selected-pubs strong { font-weight: 700; }
 
+/* ===== Ensure homepage (layout--home) matches other pages ===== */
+
+/* 1) force font inside homepage containers */
+html body.layout--home,
+html body.layout--home #main,
+html body.layout--home .initial-content,
+html body.layout--home .page__content,
+html body.layout--home .archive,
+html body.layout--home .archive__item,
+html body.layout--home .page__title {
+  font-family: inherit !important;
+}
+
+/* 2) force same width + padding on homepage containers */
+html body.layout--home #main,
+html body.layout--home .initial-content,
+html body.layout--home .archive,
+html body.layout--home .masthead__inner-wrap {
+  max-width: var(--container-max) !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: var(--container-pad) !important;
+  padding-right: var(--container-pad) !important;
+}
+
