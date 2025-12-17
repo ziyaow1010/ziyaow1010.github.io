@@ -64,3 +64,13 @@ html body.layout--home .masthead__inner-wrap {
   padding-right: var(--container-pad) !important;
 }
 
+/* Sidebar spacing from left edge */
+.sidebar.sticky {
+  padding-left: 24px !important;   /* 想更远就加大，比如 24px */
+  padding-right: 10px !important;
+}
+
+/* Optional: avatar itself a bit inset */
+.author__avatar {
+  margin-left: 6px !important;
+}
