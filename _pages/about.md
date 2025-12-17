@@ -107,6 +107,12 @@ My research focuses on collaborative foundation models and practical efficiency,
 - **[WWW]** *NetGuard: Protecting Commercial Web APIs from Model Inversion Attacks using GAN-generated Fake Samples*  
   Xueluan Gong, **Ziyao Wang**, Yanjiao Chen, Qian Wang, Cong Wang, Chao Shen.
 
+### Transactions
+- **[TIFS]** *A gan-based defense framework against model inversion attacks*
+  Xueluan Gong*, **Ziyao Wang**\*, Shuaike Li, Yanjiao Chen, Qian Wang.
+- **[TDSC]** *Kaleidoscope: Physical backdoor attacks against deep neural networks with RGB filters*
+  Xueluan Gong*, **Ziyao Wang**\*, Yanjiao Chen, Meng Xue, Qian Wang, Chao Shen
+  
 **Full list:** see [/publications/](/publications/)  
 <span style="opacity:0.75;">Last updated: {{ site.time | date: "%Y-%m-%d" }}</span>
 
