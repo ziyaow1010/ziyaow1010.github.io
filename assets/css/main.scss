@@ -8,6 +8,8 @@
  * sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
 @import
   "vendor/breakpoint/breakpoint",
 
@@ -45,72 +47,64 @@
    Custom overrides (global)
    ========================= */
 
-/* 1) Typography scale */
-html {
-  font-size: 15px; /* if still big, try 14px */
-}
+/* Typography */
+html { font-size: 15px; }
 
-.page__content {
-  font-size: 0.95em;
-  line-height: 1.65;
-}
+.page__content { font-size: 0.95em; line-height: 1.65; }
+.page__content h1 { font-size: 1.75em; }
+.page__content h2 { font-size: 1.32em; }
+.page__content h3 { font-size: 1.12em; }
 
-/* Headings: smaller + tighter */
-.page__content h1 { font-size: 1.75em; margin-top: 1.2em; }
-.page__content h2 { font-size: 1.32em; margin-top: 1.2em; }
-.page__content h3 { font-size: 1.12em; margin-top: 1.1em; }
-
-/* 2) Force font family everywhere */
+/* Force font family everywhere (including author sidebar) */
 body,
 .page__content,
 .sidebar,
-.masthead,
 .archive,
-.page__footer {
+.masthead,
+.page__footer,
+.author__content,
+.author__bio,
+.author__urls,
+.nav__list {
   font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
                "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif !important;
-  font-weight: 400;
 }
 
-h1, h2, h3, h4, h5, h6,
+h1,h2,h3,h4,h5,h6,
 .site-title,
-.page__title {
+.page__title,
+.author__name {
   font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
                "Helvetica Neue", Arial, sans-serif !important;
   font-weight: 600;
 }
 
-code, pre, kbd, samp {
+code, pre {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
                "Liberation Mono", "Courier New", monospace !important;
 }
 
-/* 3) Make layout wider (reduce "far from right" feeling) */
-.page__inner-wrap {
+/* Force wider layout (CV + homepage) */
+.page__inner-wrap { max-width: 1500px !important; }
+
+/* Homepage uses layout--home; widen its main containers explicitly */
+.layout--home #main,
+.layout--home .initial-content,
+.layout--home .archive,
+.layout--home .page__inner-wrap {
   max-width: 1500px !important;
 }
 
-/* Reduce side padding a bit on large screens */
+/* Slightly reduce side padding on large screens */
 @media (min-width: 64em) {
-  .page__inner-wrap {
+  .page__inner-wrap,
+  .layout--home #main,
+  .layout--home .initial-content {
     padding-left: 1rem !important;
     padding-right: 1rem !important;
   }
 }
 
-/* If you use author_profile (sidebar), this helps the main area feel wider */
-@media (min-width: 64em) {
-  .page__content {
-    padding-right: 0.5rem !important;
-  }
-}
-
-/* 4) Selected pubs formatting */
-.selected-pubs p {
-  margin: 0 0 1.05rem;
-  line-height: 1.55;
-}
-
-.selected-pubs strong {
-  font-weight: 700;
-}
+/* Selected pubs */
+.selected-pubs p { margin: 0 0 1.05rem; line-height: 1.55; }
+.selected-pubs strong { font-weight: 700; }
