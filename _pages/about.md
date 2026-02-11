@@ -21,21 +21,23 @@ I am broadly interested in building **collaborative, efficient, and trustworthy*
 
 My research focuses on collaborative foundation models and practical efficiency, spanning:
 
-- **Federated & collaborative foundation models** (federated fine-tuning, personalization, communication-efficiency)
+- **Efficient & collaborative foundation models** (federated learning, personalization, model collaboration, token compression)
   - **NeurIPS 2024:** *FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations*  
     **Ziyao Wang**, Zheyu Shen, Yexiao He, Guoheng Sun, Hongyi Wang, Lingjuan Lyu, Ang Li.
+  - **ICML 2025:** *Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding*  
+    **Ziyao Wang**, Muneeza Azmat, Ang Li, Raya Horesh, Mikhail Yurochkin.
+  - **CVPR 2026:** *UniCompress: Token Compression for Unified Vision–Language Understanding and Generation*  
+    **Ziyao Wang**, Chen Chen, Jingtao Li, Weiming Zhuang, Jiabo Huang, Ang Li, Lingjuan Lyu 
   - **ICLR 2024:** *FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent*  
     **Ziyao Wang**, Jianyu Wang, Ang Li.
   - **ArXiv:** *Revisiting Federated Fine-Tuning: A Single Communication Round is Enough for Foundation Models*  
     **Ziyao Wang**, Bowei Tian, Yexiao He, Zheyu Shen, Guoheng Sun, Yuhan Liu, Luyang Liu, Meng Liu, Ang Li [[PDF](https://arxiv.org/abs/2412.04650)]
-
-- **Efficient LLM systems** (parameter-efficient adaptation, decoding-time collaboration, deployment constraints)
-  - **ICML 2025:** *Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding*  
-    **Ziyao Wang**, Muneeza Azmat, Ang Li, Raya Horesh, Mikhail Yurochkin.
   - **ArXiv:** *Prada: Black-Box LLM Adaptation with Private Data on Resource-Constrained Devices*  
     **Ziyao Wang**, Yexiao He, Zheyu Shen, Yu Li, Guoheng Sun, Myungjin Lee, Ang Li. [[PDF](https://arxiv.org/abs/2503.14932)]
 
 - **Trustworthy LLM services** (hidden tokens, billing, safety at system level)
+  - **ArXiv:** *Towards Building Non-Fine-Tunable Foundation Models*
+    **Ziyao Wang**, Nizhang Li, Pingzhi Li, Guoheng Sun, Tianlong Chen, Ang Li.
   - **ArXiv:** *Predictive Auditing of Hidden Tokens in LLM APIs via Reasoning Length Estimation*  
     **Ziyao Wang**, Guoheng Sun, Yexiao He, Zheyu Shen, Bowei Tian, Ang Li. [[PDF](https://arxiv.org/abs/2508.00912)]
   - **ArXiv:** *Invisible Tokens, Visible Bills: The Urgent Need to Audit Hidden Operations in Opaque LLM Services* (*co-first*)  
