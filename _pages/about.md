@@ -43,7 +43,8 @@ My research focuses on collaborative foundation models and practical efficiency,
 
 ## News and Updates
 
-- **2025.08:** 🎉 I finished my Research internship at **Sony AI**. We submitted a paper about visual token compression in unified models.
+- **2025.06:** 🎉 One paper is accepted at **CVPR 2026**.
+- **2025.08:** 🎉 I finished my Research internship at **Sony AI**.
 - **2025.06:** 🎉 One paper is accepted at **MobiSys 2025**.
 - **2025.02:** 🎉 One paper is accepted at **ICML 2025**.
 - **2024.10:** 🎉 Two papers are accepted at **CCS 2024**. One of the papers received the **Distinguished Paper Award**. Congrats to all co-authors!
@@ -71,6 +72,16 @@ My research focuses on collaborative foundation models and practical efficiency,
 ## Selected Publications
 (* = equal contribution)
 
+### 2026
+- **CVPR 2026:** *UniCompress: Token Compression for Unified Vision–Language Understanding and Generation*  
+  **Ziyao Wang**, Chen Chen, Jingtao Li, Weiming Zhuang, Jiabo Huang, Ang Li, Lingjuan Lyu
+- **ArXiv:** *Towards Building Non-Fine-Tunable Foundation Models*  
+  **Ziyao Wang**, Nizhang Li, Pingzhi Li, Guoheng Sun, Tianlong Chen, Ang Li.
+- **ArXiv:** *FedMOA: Federated GRPO for Personalized Reasoning LLMs under Heterogeneous Rewards*  
+  **Ziyao Wang**\*, Daeun Jung\*, Yexiao He, Guoheng Sun, Zheyu Shen, Myungjin Lee, Ang Li
+- **ArXiv:** *ROCKET: Residual-Oriented Multi-Layer Alignment for Spatially-Aware Vision-Language-Action Models*  
+  Guoheng Sun, Tingting Du, Kaixi Feng, Chenxiang Luo, Xingguo Ding, Zheyu Shen, **Ziyao Wang**, Yexiao He, Ang Li
+  
 ### 2025
 - **[ICML]** *Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding*  
   **Ziyao Wang**, Muneeza Azmat, Ang Li, Raya Horesh, Mikhail Yurochkin.
