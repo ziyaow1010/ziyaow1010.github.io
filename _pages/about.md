@@ -30,10 +30,10 @@ My research focuses on collaborative foundation models and practical efficiency,
     **Ziyao Wang**, Chen Chen, Jingtao Li, Weiming Zhuang, Jiabo Huang, Ang Li, Lingjuan Lyu 
   - **ICLR 2024:** *FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent*  
     **Ziyao Wang**, Jianyu Wang, Ang Li.
-  - **ArXiv:** *Revisiting Federated Fine-Tuning: A Single Communication Round is Enough for Foundation Models*  
-    **Ziyao Wang**, Bowei Tian, Yexiao He, Zheyu Shen, Guoheng Sun, Yuhan Liu, Luyang Liu, Meng Liu, Ang Li [[PDF](https://arxiv.org/abs/2412.04650)]
-  - **ArXiv:** *Prada: Black-Box LLM Adaptation with Private Data on Resource-Constrained Devices*  
-    **Ziyao Wang**, Yexiao He, Zheyu Shen, Yu Li, Guoheng Sun, Myungjin Lee, Ang Li. [[PDF](https://arxiv.org/abs/2503.14932)]
+  # - **ArXiv:** *Revisiting Federated Fine-Tuning: A Single Communication Round is Enough for Foundation Models*  
+  # **Ziyao Wang**, Bowei Tian, Yexiao He, Zheyu Shen, Guoheng Sun, Yuhan Liu, Luyang Liu, Meng Liu, Ang Li [[PDF](https://arxiv.org/abs/2412.04650)]
+  # - **ArXiv:** *Prada: Black-Box LLM Adaptation with Private Data on Resource-Constrained Devices*  
+  # **Ziyao Wang**, Yexiao He, Zheyu Shen, Yu Li, Guoheng Sun, Myungjin Lee, Ang Li. [[PDF](https://arxiv.org/abs/2503.14932)]
 
 - **Trustworthy LLM services** (hidden tokens, billing, safety at system level)
   - **ArXiv:** *Towards Building Non-Fine-Tunable Foundation Models*
