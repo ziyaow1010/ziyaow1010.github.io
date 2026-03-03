@@ -73,7 +73,7 @@ My research focuses on collaborative foundation models and practical efficiency,
 (* = equal contribution)
 
 ### 2026
-- **CVPR 2026:** *UniCompress: Token Compression for Unified Vision–Language Understanding and Generation*  
+- **[CVPR]** *UniCompress: Token Compression for Unified Vision–Language Understanding and Generation*  
   **Ziyao Wang**, Chen Chen, Jingtao Li, Weiming Zhuang, Jiabo Huang, Ang Li, Lingjuan Lyu
 - **ArXiv:** *Towards Building Non-Fine-Tunable Foundation Models*  
   **Ziyao Wang**, Nizhang Li, Pingzhi Li, Guoheng Sun, Tianlong Chen, Ang Li.
