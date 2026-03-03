@@ -30,15 +30,9 @@ My research focuses on collaborative foundation models and practical efficiency,
     **Ziyao Wang**, Chen Chen, Jingtao Li, Weiming Zhuang, Jiabo Huang, Ang Li, Lingjuan Lyu 
   - **ICLR 2024:** *FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent*  
     **Ziyao Wang**, Jianyu Wang, Ang Li.
-  <!--
-  **ArXiv:** *Revisiting Federated Fine-Tuning: A Single Communication Round is Enough for Foundation Models*  
-   **Ziyao Wang**, Bowei Tian, Yexiao He, Zheyu Shen, Guoheng Sun, Yuhan Liu, Luyang Liu, Meng Liu, Ang Li [[PDF](https://arxiv.org/abs/2412.04650)]
-   - **ArXiv:** *Prada: Black-Box LLM Adaptation with Private Data on Resource-Constrained Devices*  
-   **Ziyao Wang**, Yexiao He, Zheyu Shen, Yu Li, Guoheng Sun, Myungjin Lee, Ang Li. [[PDF](https://arxiv.org/abs/2503.14932)]
-  -->
 
 - **Trustworthy LLM services** (hidden tokens, billing, safety at system level)
-  - **ArXiv:** *Towards Building Non-Fine-Tunable Foundation Models* 
+  - **ArXiv:** *Towards Building Non-Fine-Tunable Foundation Models*  
     **Ziyao Wang**, Nizhang Li, Pingzhi Li, Guoheng Sun, Tianlong Chen, Ang Li.
   - **ArXiv:** *Predictive Auditing of Hidden Tokens in LLM APIs via Reasoning Length Estimation*  
     **Ziyao Wang**, Guoheng Sun, Yexiao He, Zheyu Shen, Bowei Tian, Ang Li. [[PDF](https://arxiv.org/abs/2508.00912)]
@@ -112,9 +106,9 @@ My research focuses on collaborative foundation models and practical efficiency,
   Xueluan Gong, **Ziyao Wang**, Yanjiao Chen, Qian Wang, Cong Wang, Chao Shen.
 
 ### Transactions
-- **[TIFS]** *A gan-based defense framework against model inversion attacks* 
+- **[TIFS]** *A gan-based defense framework against model inversion attacks*  
   Xueluan Gong*, **Ziyao Wang**\*, Shuaike Li, Yanjiao Chen, Qian Wang.
-- **[TDSC]** *Kaleidoscope: Physical backdoor attacks against deep neural networks with RGB filters* 
+- **[TDSC]** *Kaleidoscope: Physical backdoor attacks against deep neural networks with RGB filters*  
   Xueluan Gong*, **Ziyao Wang**\*, Yanjiao Chen, Meng Xue, Qian Wang, Chao Shen
   
 **Full list:** see [/publications/](/publications/)  
