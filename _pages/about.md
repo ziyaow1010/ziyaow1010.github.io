@@ -38,7 +38,7 @@ My research focuses on collaborative foundation models and practical efficiency,
   -->
 
 - **Trustworthy LLM services** (hidden tokens, billing, safety at system level)
-  - **ArXiv:** *Towards Building Non-Fine-Tunable Foundation Models*
+  - **ArXiv:** *Towards Building Non-Fine-Tunable Foundation Models* 
     **Ziyao Wang**, Nizhang Li, Pingzhi Li, Guoheng Sun, Tianlong Chen, Ang Li.
   - **ArXiv:** *Predictive Auditing of Hidden Tokens in LLM APIs via Reasoning Length Estimation*  
     **Ziyao Wang**, Guoheng Sun, Yexiao He, Zheyu Shen, Bowei Tian, Ang Li. [[PDF](https://arxiv.org/abs/2508.00912)]
