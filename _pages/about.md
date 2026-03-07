@@ -43,11 +43,11 @@ My research focuses on collaborative foundation models and practical efficiency,
 
 ## News and Updates
 
-- **2025.06:** 🎉 One paper is accepted at **CVPR 2026**.
+- **2026.02:** 🎉 One paper is accepted at **CVPR 2026**.
 - **2025.08:** 🎉 I finished my Research internship at **Sony AI**.
 - **2025.06:** 🎉 One paper is accepted at **MobiSys 2025**.
 - **2025.02:** 🎉 One paper is accepted at **ICML 2025**.
-- **2024.10:** 🎉 Two papers are accepted at **CCS 2024**. One of the papers received the **Distinguished Paper Award**. Congrats to all co-authors!
+- **2024.10:** 🎉 Two papers are accepted at **CCS 2024**. One of the papers received the <span style="color:red"><b>Distinguished Paper Award</b></span>. Congrats to all co-authors!
 - **2024.09:** 🎉 Two papers are accepted at **NeurIPS 2024**.
 - **2024.08:** 🎉 I finished my Research internship at **IBM Research**.
 - **2024:** 🎉 One paper is accepted at **ICLR 2024**.
