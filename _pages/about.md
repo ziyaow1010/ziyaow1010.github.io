@@ -10,7 +10,7 @@ redirect_from:
 ## 🎓 About Me
 
 I am a **Ph.D. student (ECE)** at the **University of Maryland, College Park**, advised by Prof. [Ang Li](https://www.ang-li.com/).
-Before that, I received my **B.E. in Computer Engineering** from **Wuhan University**, where I worked with Prof. [Qian Wang](http://nisplab.whu.edu.cn/).
+Before that, I received my **B.E. in Cyber Engineering** from **Wuhan University**, where I worked with Prof. [Qian Wang](http://nisplab.whu.edu.cn/).
 I have been fortunate to intern at **IBM Research (Summer 2024)** and **Sony AI (Summer 2025)**, working on **collaborative and efficient foundation models**.
 
 I am broadly interested in building **collaborative, efficient, and trustworthy** machine learning systems.
@@ -64,6 +64,7 @@ My research focuses on collaborative foundation models and practical efficiency,
 
 ## Professional Experience
 
+- **Amazon** — Research Intern (Summer 2026)
 - **Sony AI** — Research Intern (Summer 2025)
 - **IBM Research** — Research Intern (Summer 2024)
 
