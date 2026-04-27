@@ -19,7 +19,7 @@ I am broadly interested in building **collaborative, efficient, and trustworthy*
 
 ## 🔍 Research Interests
 
-My research focuses on collaborative foundation models and practical efficiency, spanning:
+My research focuses on efficient, collaborative, and trustworthy foundation model systems, spanning:
 
 - **Efficient & collaborative foundation models** (federated learning, personalization, model collaboration, token compression)
   - **NeurIPS 2024:** *FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations*  
