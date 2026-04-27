@@ -75,6 +75,8 @@ My research focuses on collaborative foundation models and practical efficiency,
 ### 2026
 - **[CVPR]** *UniCompress: Token Compression for Unified Vision–Language Understanding and Generation*  
   **Ziyao Wang**, Chen Chen, Jingtao Li, Weiming Zhuang, Jiabo Huang, Ang Li, Lingjuan Lyu
+- **[TMLR]** *Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines*  
+  **Ziyao Wang**, Bingying Wang, Hanrong Zhang, Tingting Du, Tianyang Chen, Guoheng Sun1, Yexiao He, Zheyu Shen, Wanghao Ye, Ang Li
 - **ArXiv:** *Towards Building Non-Fine-Tunable Foundation Models*  
   **Ziyao Wang**, Nizhang Li, Pingzhi Li, Guoheng Sun, Tianlong Chen, Ang Li.
 - **ArXiv:** *FedMOA: Federated GRPO for Personalized Reasoning LLMs under Heterogeneous Rewards*  
@@ -115,8 +117,6 @@ My research focuses on collaborative foundation models and practical efficiency,
   **Ziyao Wang**, Dongwon Lee, Thai Le.
 - **[WWW]** *NetGuard: Protecting Commercial Web APIs from Model Inversion Attacks using GAN-generated Fake Samples*  
   Xueluan Gong, **Ziyao Wang**, Yanjiao Chen, Qian Wang, Cong Wang, Chao Shen.
-
-### Transactions
 - **[TIFS]** *A gan-based defense framework against model inversion attacks*  
   Xueluan Gong*, **Ziyao Wang**\*, Shuaike Li, Yanjiao Chen, Qian Wang.
 - **[TDSC]** *Kaleidoscope: Physical backdoor attacks against deep neural networks with RGB filters*  
