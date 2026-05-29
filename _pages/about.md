@@ -11,33 +11,35 @@ redirect_from:
 
 I am a **Ph.D. student (ECE)** at the **University of Maryland, College Park**, advised by Prof. [Ang Li](https://www.ang-li.com/).
 Before that, I received my **B.E. in Cyber Engineering** from **Wuhan University**, where I worked with Prof. [Qian Wang](http://nisplab.whu.edu.cn/).
-I have been fortunate to intern at **IBM Research (Summer 2024)** and **Sony AI (Summer 2025)**, working on **collaborative and efficient foundation models**.
-
-I am broadly interested in building **collaborative, efficient, and trustworthy** machine learning systems.
+I have been fortunate to intern at **IBM Research (Summer 2024)**, **Sony AI (Summer 2025)**, and **Amazon (Summer 2026)**.
 
 ---
 
 ## 🔍 Research Interests
 
-My research focuses on efficient, collaborative, and trustworthy foundation model systems, spanning:
+My research focuses on building **collaborative, trustworthy, and deployable** foundation model systems.
 
-- **Efficient & collaborative foundation models** (federated learning, personalization, model collaboration, token compression)
+- **Federated & collaborative foundation models** (federated learning, model collaboration)
   - **NeurIPS 2024:** *FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations*  
     **Ziyao Wang**, Zheyu Shen, Yexiao He, Guoheng Sun, Hongyi Wang, Lingjuan Lyu, Ang Li.
   - **ICML 2025:** *Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding*  
     **Ziyao Wang**, Muneeza Azmat, Ang Li, Raya Horesh, Mikhail Yurochkin.
-  - **CVPR 2026:** *UniCompress: Token Compression for Unified Vision–Language Understanding and Generation*  
-    **Ziyao Wang**, Chen Chen, Jingtao Li, Weiming Zhuang, Jiabo Huang, Ang Li, Lingjuan Lyu 
   - **ICLR 2024:** *FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent*  
     **Ziyao Wang**, Jianyu Wang, Ang Li.
 
-- **Trustworthy LLM services** (hidden tokens, billing, safety at system level)
+- **Trustworthy Foundation Models** (safety, privacy, transparency, controllability)
   - **ArXiv:** *Towards Building Non-Fine-Tunable Foundation Models*  
     **Ziyao Wang**, Nizhang Li, Pingzhi Li, Guoheng Sun, Tianlong Chen, Ang Li.
   - **ArXiv:** *Predictive Auditing of Hidden Tokens in LLM APIs via Reasoning Length Estimation*  
     **Ziyao Wang**, Guoheng Sun, Yexiao He, Zheyu Shen, Bowei Tian, Ang Li. [[PDF](https://arxiv.org/abs/2508.00912)]
-  - **ArXiv:** *Invisible Tokens, Visible Bills: The Urgent Need to Audit Hidden Operations in Opaque LLM Services* (*co-first*)  
+  - **ICML 2026:** *Invisible Tokens, Visible Bills: The Urgent Need to Audit Hidden Operations in Opaque LLM Services* (*co-first*)  
     Guoheng Sun*, **Ziyao Wang***, Xuandong Zhao, Bowei Tian, Zheyu Shen, Yexiao He, Jinming Xing, Ang Li. [[PDF](https://arxiv.org/abs/2505.18471)]
+
+- **Embodied & Multimodal Foundation Models** ((Embodied AI, VLA, multimodal efficiency))
+   - **CVPR 2026:** *UniCompress: Token Compression for Unified Vision–Language Understanding and Generation*  
+    **Ziyao Wang**, Chen Chen, Jingtao Li, Weiming Zhuang, Jiabo Huang, Ang Li, Lingjuan Lyu
+   - **[TMLR]** *Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines*  
+  **Ziyao Wang**, Bingying Wang, Hanrong Zhang, Tingting Du, Tianyang Chen, Guoheng Sun, Yexiao He, Zheyu Shen, Wanghao Ye, Ang Li
 
 ---
 
