@@ -38,7 +38,7 @@ My research focuses on building **collaborative, trustworthy, and deployable** f
 - **Embodied & Multimodal Foundation Models** ((Embodied AI, VLA, multimodal efficiency))
    - **CVPR 2026:** *UniCompress: Token Compression for Unified Vision–Language Understanding and Generation*  
     **Ziyao Wang**, Chen Chen, Jingtao Li, Weiming Zhuang, Jiabo Huang, Ang Li, Lingjuan Lyu
-   - **[TMLR]** *Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines*  
+   - **TMLR:** *Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines*  
   **Ziyao Wang**, Bingying Wang, Hanrong Zhang, Tingting Du, Tianyang Chen, Guoheng Sun, Yexiao He, Zheyu Shen, Wanghao Ye, Ang Li
 
 ---
