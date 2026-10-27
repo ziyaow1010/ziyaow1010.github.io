@@ -1,0 +1,40 @@
+{% comment %}
+  One source of truth: _data/publications.yml
+  The homepage and /publications/ both render this include.
+{% endcomment %}
+{% assign publication_year = 0 %}
+<div class="publication-list">
+{% for publication in site.data.publications %}
+  {% if publication.year != publication_year %}
+    {% unless forloop.first %}</div>{% endunless %}
+    <h3 class="publication-year" id="publications-{{ publication.year }}">{{ publication.year }}</h3>
+    <div class="publication-year__items">
+    {% assign publication_year = publication.year %}
+  {% endif %}
+  {% assign venue_css = publication.venue | downcase | replace: ' ', '-' %}
+  <article class="publication-card">
+    <div class="publication-card__layout">
+      <div class="publication-card__badge">
+        <span class="publication-venue venue--{{ venue_css }}" aria-label="Venue {{ publication.venue }}">{{ publication.venue }}</span>
+      </div>
+      <div class="publication-card__body">
+        <h4 class="publication-card__title">
+          <a href="{{ publication.paper }}" target="_blank" rel="noopener noreferrer">{{ publication.title | escape }}</a>
+        </h4>
+        <p class="publication-card__authors">{{ publication.authors | escape | replace: 'Ziyao Wang', '<strong>Ziyao Wang</strong>' }}</p>
+        {% if publication.award %}
+          <div class="publication-card__award"><i class="fas fa-award" aria-hidden="true"></i> {{ publication.award }}</div>
+        {% endif %}
+        {% if publication.note %}<p class="publication-card__note">{{ publication.note | escape }}</p>{% endif %}
+        <div class="publication-card__links" aria-label="Links for {{ publication.title | escape }}">
+          <a class="publication-link" href="{{ publication.paper }}" target="_blank" rel="noopener noreferrer" aria-label="Read paper: {{ publication.title | escape }}"><i class="fas fa-file-lines" aria-hidden="true"></i> Paper</a>
+          {% if publication.code %}<a class="publication-link" href="{{ publication.code }}" target="_blank" rel="noopener noreferrer" aria-label="View code repository: {{ publication.title | escape }}"><i class="fab fa-github" aria-hidden="true"></i> Code</a>{% endif %}
+          {% if publication.project %}<a class="publication-link" href="{{ publication.project }}" target="_blank" rel="noopener noreferrer" aria-label="Open project page: {{ publication.title | escape }}"><i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i> Project</a>{% endif %}
+          {% if publication.resources %}<a class="publication-link" href="{{ publication.resources }}" target="_blank" rel="noopener noreferrer" aria-label="Browse resources: {{ publication.title | escape }}"><i class="fab fa-github" aria-hidden="true"></i> Resources</a>{% endif %}
+        </div>
+      </div>
+    </div>
+  </article>
+{% endfor %}
+{% if site.data.publications.size > 0 %}</div>{% endif %}
+</div>
