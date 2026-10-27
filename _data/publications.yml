@@ -71,7 +71,7 @@
   paper: "https://arxiv.org/abs/2508.00912"
 - year: 2025
   venue: "arXiv"
-  title: "One Communication Round is All It Needs for Federated Fine-Tuning Foundation Models"
+  title: "Revisiting Federated Fine-Tuning: A Single Communication Round is Enough for Foundation Models"
   authors: "Ziyao Wang, Bowei Tian, Yexiao He, Zheyu Shen, Luyang Liu, Ang Li"
   paper: "https://arxiv.org/abs/2412.04650"
 - year: 2024
