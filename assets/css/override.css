@@ -179,3 +179,181 @@ html body .cv-links {
 }
 html body .cv-links a { text-decoration: underline; text-underline-offset: 3px; }
 html body .cv-note { color: var(--global-text-color-light); font-size: 0.91rem; }
+
+/* Publication cards — unified list (2026 refresh) */
+html body .publication-summary {
+  display: block;
+  margin: 0.2rem 0 1.4rem;
+  font-family: var(--site-body) !important;
+  font-size: 0.98rem;
+  color: var(--global-text-color-light);
+  line-height: 1.6;
+}
+html body .publication-list {
+  width: 100%;
+  min-width: 0;
+  padding-bottom: 0.8rem;
+}
+html body .publication-year {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  border-bottom: 0;
+  margin: 2.15rem 0 0.9rem;
+  font-family: var(--site-heading) !important;
+  font-size: 1.65rem;
+  font-weight: 400 !important;
+  line-height: 1.15;
+}
+html body .publication-year:first-child { margin-top: 1.1rem; }
+html body .publication-year::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--global-border-color);
+}
+html body .publication-year__items {
+  display: flex;
+  flex-direction: column;
+  gap: 0.82rem;
+  margin-bottom: 0.4rem;
+}
+html body .publication-card {
+  margin: 0;
+  border: 1px solid var(--global-border-color);
+  border-radius: 11px;
+  padding: 1.04rem 1.22rem;
+  background: var(--global-bg-color);
+  transition: border-color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
+}
+html body .publication-card:hover {
+  border-color: #a7b4bf;
+  box-shadow: 0 4px 18px rgba(30, 45, 55, 0.06);
+}
+html body .publication-card__layout {
+  display: grid;
+  grid-template-columns: 134px minmax(0, 1fr);
+  align-items: start;
+  gap: 0.95rem 1rem;
+}
+html body .publication-card__badge { padding-top: 0.17rem; }
+html body .publication-venue {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 94px;
+  max-width: 130px;
+  padding: 0.42rem 0.62rem;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  font: 700 0.76rem/1.3 var(--site-body) !important;
+  letter-spacing: 0.02em;
+  text-align: center;
+  overflow-wrap: anywhere;
+  background: #e6edf2;
+  color: #345064;
+}
+/* Every badge has a textual venue label as well as color. */
+html body .venue--cvpr { background:#dfebfb; color:#214e87; border-color:#c5d9f2; }
+html body .venue--neurips { background:#ede7fa; color:#50378b; border-color:#d8c8f2; }
+html body .venue--icml { background:#f9e9d7; color:#8b4d18; border-color:#ebd2b2; }
+html body .venue--iclr { background:#dff1e7; color:#215f48; border-color:#c5e4d3; }
+html body .venue--ccs { background:#f7e5e8; color:#893848; border-color:#efd0d6; }
+html body .venue--tmlr { background:#ddf0f2; color:#23636a; border-color:#c4e4e8; }
+html body .venue--mobisys { background:#f0e8d8; color:#70521d; border-color:#e4d6b9; }
+html body .venue--findings-emnlp { background:#eee6f3; color:#653e80; border-color:#decce8; }
+html body .venue--www { background:#e2ecf7; color:#2d587e; border-color:#cbddf0; }
+html body .venue--tifs,
+html body .venue--tdsc { background:#e2eee9; color:#325b4f; border-color:#cce2d8; }
+html body .venue--arxiv { background:#ecedf0; color:#505763; border-color:#dcdee2; }
+
+html body .publication-card__body { min-width: 0; }
+html body .publication-card__title {
+  font-family: var(--site-body) !important;
+  font-size: clamp(1.04rem, 1.15vw, 1.16rem) !important;
+  font-weight: 600 !important;
+  letter-spacing: -0.008em;
+  line-height: 1.37;
+  margin: 0 0 0.44rem !important;
+}
+html body .publication-card__title a {
+  color: var(--global-text-color) !important;
+  text-decoration: none !important;
+  transition: color 150ms ease;
+}
+html body .publication-card__title a:hover {
+  color: var(--global-link-color) !important;
+  text-decoration: underline !important;
+  text-underline-offset: 3px;
+}
+html body .publication-card__authors {
+  font-family: var(--site-body) !important;
+  font-size: 0.92rem !important;
+  line-height: 1.54;
+  margin: 0 0 0.57rem !important;
+  color: var(--global-text-color-light);
+}
+html body .publication-card__authors strong {
+  color: var(--global-text-color);
+  font-weight: 600;
+}
+html body .publication-card__note {
+  font-family: var(--site-body) !important;
+  font-size: 0.84rem !important;
+  line-height: 1.4;
+  margin: -0.1rem 0 0.57rem !important;
+  color: var(--global-text-color-light);
+}
+html body .publication-card__award {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.24rem 0.55rem;
+  margin: 0.1rem 0 0.67rem;
+  border-radius: 5px;
+  background: #fff2d5;
+  color: #81550d;
+  font-family: var(--site-body) !important;
+  font-size: 0.81rem;
+  font-weight: 600;
+}
+html body .publication-card__links {
+  display: flex;
+  gap: 0.52rem;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 0.56rem;
+}
+html body .publication-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.29rem 0.67rem;
+  font: 600 0.81rem/1.35 var(--site-body) !important;
+  border: 1px solid var(--global-border-color);
+  border-radius: 6px;
+  color: var(--global-text-color) !important;
+  text-decoration: none !important;
+  background: var(--global-bg-color);
+  transition: background 150ms ease, border-color 150ms ease;
+}
+html body .publication-link:hover {
+  background: var(--global-border-color);
+  border-color: var(--global-text-color-light);
+  text-decoration: none !important;
+}
+html body .publication-link i { font-size: 0.84rem; }
+html body .publication-link:focus-visible,
+html body .publication-card__title a:focus-visible {
+  outline: 2px solid var(--global-link-color);
+  outline-offset: 3px;
+}
+@media (max-width: 780px) {
+  html body .publication-card { padding: 0.95rem; }
+  html body .publication-card__layout {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.5rem;
+  }
+  html body .publication-card__badge { padding-top: 0; }
+  html body .publication-card__title { font-size: 1.04rem !important; }
+}
