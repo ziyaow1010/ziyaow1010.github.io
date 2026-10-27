@@ -56,7 +56,7 @@ html body .page__title {
   line-height: 1.2;
   margin-bottom: 1.15rem;
 }
-html body .page__content { font-size: 1.065rem; line-height: 1.64; }
+html body .page__content { font-size: 1.065rem; line-height: 1.55; }
 html body .page__content h2 {
   font-size: clamp(1.4rem, 1.7vw, 1.8rem);
   line-height: 1.3;
@@ -67,6 +67,10 @@ html body .page__content h2 {
 html body .page__content h3 { font-size: 1.24rem; line-height: 1.4; }
 html body .page__content p { margin-bottom: 1em; }
 html body .page__content li { margin-bottom: 0.5em; }
+/* Compact consecutive items only; keep the final item and section margins unchanged. */
+html body .page__content > ul > li:not(:last-child),
+html body .page__content > ol > li:not(:last-child) { margin-bottom: 0.22em; }
+html body .page__content > p:has(+ p) { margin-bottom: 0.62em; }
 html body .page__content li li { margin-top: 0.32em; }
 html body .page__content ul ul { margin-top: 0.45em; }
 html body .page__content hr { margin: 1.65rem 0; }
@@ -165,7 +169,7 @@ html body .selected-pubs p { margin: 0 0 1.05rem; line-height: 1.55; }
 }
 @media (max-width: 40em) {
   html body #main { margin-top: 1.35rem; }
-  html body .page__content { font-size: 1rem; line-height: 1.6; }
+  html body .page__content { font-size: 1rem; line-height: 1.55; }
   html body .page__title { font-size: 1.9rem; }
 }
 
@@ -222,7 +226,7 @@ html body .publication-card {
   margin: 0;
   border: 1px solid var(--global-border-color);
   border-radius: 11px;
-  padding: 1.04rem 1.22rem;
+  padding: 0.86rem 1.12rem;
   background: var(--global-bg-color);
   transition: border-color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
 }
@@ -243,7 +247,7 @@ html body .publication-venue {
   align-items: center;
   min-width: 94px;
   max-width: 130px;
-  padding: 0.42rem 0.62rem;
+  padding: 0.34rem 0.62rem;
   border: 1px solid transparent;
   border-radius: 5px;
   font: 700 0.76rem/1.3 var(--site-body) !important;
@@ -274,7 +278,7 @@ html body .publication-card__title {
   font-weight: 600 !important;
   letter-spacing: -0.008em;
   line-height: 1.37;
-  margin: 0 0 0.44rem !important;
+  margin: 0 0 0.26rem !important;
 }
 html body .publication-card__title a {
   color: var(--global-text-color) !important;
@@ -290,7 +294,7 @@ html body .publication-card__authors {
   font-family: var(--site-body) !important;
   font-size: 0.92rem !important;
   line-height: 1.54;
-  margin: 0 0 0.57rem !important;
+  margin: 0 0 0.36rem !important;
   color: var(--global-text-color-light);
 }
 html body .publication-card__authors strong {
@@ -301,7 +305,7 @@ html body .publication-card__note {
   font-family: var(--site-body) !important;
   font-size: 0.84rem !important;
   line-height: 1.4;
-  margin: -0.1rem 0 0.57rem !important;
+  margin: -0.1rem 0 0.39rem !important;
   color: var(--global-text-color-light);
 }
 html body .publication-card__award {
@@ -309,7 +313,7 @@ html body .publication-card__award {
   align-items: center;
   gap: 0.35rem;
   padding: 0.24rem 0.55rem;
-  margin: 0.1rem 0 0.67rem;
+  margin: 0.1rem 0 0.46rem;
   border-radius: 5px;
   background: #fff2d5;
   color: #81550d;
@@ -322,13 +326,13 @@ html body .publication-card__links {
   gap: 0.52rem;
   align-items: center;
   flex-wrap: wrap;
-  margin-top: 0.56rem;
+  margin-top: 0.35rem;
 }
 html body .publication-link {
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
-  padding: 0.29rem 0.67rem;
+  padding: 0.25rem 0.65rem;
   font: 600 0.81rem/1.35 var(--site-body) !important;
   border: 1px solid var(--global-border-color);
   border-radius: 6px;
@@ -349,10 +353,10 @@ html body .publication-card__title a:focus-visible {
   outline-offset: 3px;
 }
 @media (max-width: 780px) {
-  html body .publication-card { padding: 0.95rem; }
+  html body .publication-card { padding: 0.86rem; }
   html body .publication-card__layout {
     grid-template-columns: minmax(0, 1fr);
-    gap: 0.5rem;
+    gap: 0.36rem;
   }
   html body .publication-card__badge { padding-top: 0; }
   html body .publication-card__title { font-size: 1.04rem !important; }
