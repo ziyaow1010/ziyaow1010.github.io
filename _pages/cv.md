@@ -9,15 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-**Email:** ziyaow [at] umd [dot] edu  
-**Google Scholar:** (link) · **GitHub:** (link) · **CV PDF:** (link)  
-**Updated:** {{ site.time | date: "%Y-%m-%d" }}
+<div class="cv-links">
+  <a href="mailto:ziyaow@umd.edu">Email</a>
+  <a href="https://scholar.google.com/citations?user=_PdzpfAAAAAJ">Google Scholar</a>
+  <a href="https://github.com/ziyaow1010">GitHub</a>
+  {% assign cv_pdf = site.static_files | where: "path", "/files/Ziyao_Wang_CV.pdf" | first %}
+  {% if cv_pdf %}<a href="{{ '/files/Ziyao_Wang_CV.pdf' | relative_url }}" target="_blank" rel="noopener">Download CV (PDF)</a>{% endif %}
+</div>
+<p class="cv-note">Last updated: {{ site.time | date: "%B %Y" }}</p>
 
 ## Education
 - **Ph.D.**, Electrical and Computer Engineering, University of Maryland, College Park (Expected 2028)
 - **B.E.**, Computer Engineering, Wuhan University (2019)
 
 ## Work Experience
+- **Amazon**, Research Intern (Summer 2026)
 - **Sony AI**, Research Intern (Summer 2025)
 - **IBM Research**, Research Intern (Summer 2024)
 
@@ -25,6 +31,18 @@ redirect_from:
 (* = equal contribution)
 
 <div class="selected-pubs">
+
+<p>
+<strong>UniCompress: Token Compression for Unified Vision–Language Understanding and Generation</strong><br>
+<strong>Ziyao Wang</strong>, Chen Chen, Jingtao Li, Weiming Zhuang, Jiabo Huang, Ang Li, Lingjuan Lyu.<br>
+CVPR 2026
+</p>
+
+<p>
+<strong>Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines</strong><br>
+<strong>Ziyao Wang</strong>, Bingying Wang, Hanrong Zhang, Tingting Du, Tianyang Chen, Guoheng Sun, Yexiao He, Zheyu Shen, Wanghao Ye, Ang Li.<br>
+TMLR 2026
+</p>
 
 <p>
 <strong>Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding</strong><br>
