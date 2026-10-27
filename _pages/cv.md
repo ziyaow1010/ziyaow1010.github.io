@@ -75,7 +75,7 @@ EMNLP 2023
 </p>
 
 <p>
-<strong>One Communication Round is All It Needs for Federated Fine-Tuning Foundation Models</strong><br>
+<strong>Revisiting Federated Fine-Tuning: A Single Communication Round is Enough for Foundation Models</strong><br>
 <strong>Ziyao Wang</strong>, Bowei Tian, Yexiao He, Zheyu Shen, Luyang Liu, Ang Li.<br>
 <a href="https://arxiv.org/abs/2412.04650" target="_blank" rel="noopener">arXiv:2412.04650</a>
 </p>
