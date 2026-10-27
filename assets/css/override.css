@@ -40,8 +40,15 @@ html body .masthead__menu-item--lg,
 html body .site-title,
 html body .archive__item-title {
   font-family: var(--site-heading) !important;
-  font-weight: 700;
-  letter-spacing: -0.025em;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+}
+/* Reserve the heavier weight for labels, not the entire research page. */
+html body .page__content strong,
+html body .page__content b,
+html body .archive strong,
+html body .sidebar strong {
+  font-weight: 600;
 }
 html body .masthead__menu-item--lg { letter-spacing: -0.02em; }
 html body .page__title {
