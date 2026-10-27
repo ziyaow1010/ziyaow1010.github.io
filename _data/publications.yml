@@ -1,0 +1,137 @@
+# Canonical publication list, newest first.
+# Only add verified code, project, or resource URLs. Never use placeholder links.
+# Used by the homepage and /publications/.
+- year: 2026
+  venue: "CVPR"
+  title: "UniCompress: Token Compression for Unified Vision-Language Understanding and Generation"
+  authors: "Ziyao Wang, Chen Chen, Jingtao Li, Weiming Zhuang, Jiabo Huang, Ang Li, Lingjuan Lyu"
+  paper: "https://openaccess.thecvf.com/content/CVPR2026/html/Wang_UniCompress_Token_Compression_for_Unified_Vision-Language_Understanding_and_Generation_CVPR_2026_paper.html"
+- year: 2026
+  venue: "TMLR"
+  title: "Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines"
+  authors: "Ziyao Wang, Bingying Wang, Hanrong Zhang, Tingting Du, Tianyang Chen, Guoheng Sun, Yexiao He, Zheyu Shen, Wanghao Ye, Ang Li"
+  paper: "https://arxiv.org/abs/2604.23001"
+  resources: "https://github.com/ziyaow1010/vla-datasets-benchmarks"
+- year: 2026
+  venue: "ICML"
+  title: "Position: Invisible Tokens, Visible Bills: The Urgent Need to Audit Hidden Operations in Opaque LLM Services"
+  authors: "Guoheng Sun*, Ziyao Wang*, Xuandong Zhao, Bowei Tian, Zheyu Shen, Yexiao He, Jinming Xing, Ang Li"
+  paper: "https://proceedings.mlr.press/v306/sun26bd.html"
+  note: "Position Paper · * equal contribution"
+- year: 2026
+  venue: "Findings EMNLP"
+  title: "CoIn: Counting the Invisible Reasoning Tokens in Commercial Opaque LLM APIs"
+  authors: "Guoheng Sun, Ziyao Wang, Bowei Tian, Meng Liu, Zheyu Shen, Shwai He, Yexiao He, Wanghao Ye, Yiting Wang, Ang Li"
+  paper: "https://aclanthology.org/2026.findings-emnlp.363/"
+  code: "https://github.com/CASE-Lab-UMD/LLM-Auditing-CoIn"
+- year: 2026
+  venue: "NeurIPS"
+  title: "ROCKET: Residual-Oriented Multi-Layer Alignment for Spatially-Aware Vision-Language-Action Models"
+  authors: "Guoheng Sun, Tingting Du, Kaixi Feng, Chenxiang Luo, Xingguo Ding, Zheyu Shen, Ziyao Wang, Yexiao He, Ang Li"
+  paper: "https://arxiv.org/abs/2602.17951"
+  code: "https://github.com/CASE-Lab-UMD/ROCKET-VLA"
+- year: 2026
+  venue: "arXiv"
+  title: "Towards Building Non-Fine-Tunable Foundation Models"
+  authors: "Ziyao Wang, Nizhang Li, Pingzhi Li, Guoheng Sun, Tianlong Chen, Ang Li"
+  paper: "https://arxiv.org/abs/2602.00446"
+- year: 2026
+  venue: "arXiv"
+  title: "FedMOA: Federated GRPO for Personalized Reasoning LLMs under Heterogeneous Rewards"
+  authors: "Ziyao Wang*, Daeun Jung*, Yexiao He, Guoheng Sun, Zheyu Shen, Myungjin Lee, Ang Li"
+  paper: "https://arxiv.org/abs/2602.00453"
+  note: "* equal contribution"
+- year: 2025
+  venue: "ICML"
+  title: "Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding"
+  authors: "Ziyao Wang, Muneeza Azmat, Ang Li, Raya Horesh, Mikhail Yurochkin"
+  paper: "https://proceedings.mlr.press/v267/wang25e.html"
+  code: "https://github.com/ATP-1010/CoSD"
+- year: 2025
+  venue: "ICLR"
+  title: "Towards Counterfactual Fairness through Auxiliary Variables"
+  authors: "Bowei Tian, Ziyao Wang, Shwai He, Wanghao Ye, Guoheng Sun, Yucong Dai, Yongkai Wu, Ang Li"
+  paper: "https://proceedings.iclr.cc/paper_files/paper/2025/hash/435e8fbbfc2c6072d4f3a5cb6e56a39a-Abstract-Conference.html"
+  code: "https://github.com/CASE-Lab-UMD/counterfactual_fairness_2025"
+- year: 2025
+  venue: "MobiSys"
+  title: "EdgeLoRA: An Efficient Multi-Tenant LLM Serving System on Edge Devices"
+  authors: "Zheyu Shen, Yexiao He, Ziyao Wang, Yuning Zhang, Guoheng Sun, Wanghao Ye, Ang Li"
+  paper: "https://doi.org/10.1145/3711875.3729141"
+- year: 2025
+  venue: "arXiv"
+  title: "Prada: Black-Box LLM Adaptation with Private Data on Resource-Constrained Devices"
+  authors: "Ziyao Wang, Yexiao He, Zheyu Shen, Yu Li, Guoheng Sun, Myungjin Lee, Ang Li"
+  paper: "https://arxiv.org/abs/2503.14932"
+  code: "https://github.com/ziyaow1010/Black-Box-Fine-Tuning"
+- year: 2025
+  venue: "arXiv"
+  title: "Predictive Auditing of Hidden Tokens in LLM APIs via Reasoning Length Estimation"
+  authors: "Ziyao Wang, Guoheng Sun, Yexiao He, Zheyu Shen, Bowei Tian, Ang Li"
+  paper: "https://arxiv.org/abs/2508.00912"
+- year: 2025
+  venue: "arXiv"
+  title: "One Communication Round is All It Needs for Federated Fine-Tuning Foundation Models"
+  authors: "Ziyao Wang, Bowei Tian, Yexiao He, Zheyu Shen, Luyang Liu, Ang Li"
+  paper: "https://arxiv.org/abs/2412.04650"
+- year: 2024
+  venue: "NeurIPS"
+  title: "FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations"
+  authors: "Ziyao Wang, Zheyu Shen, Yexiao He, Guoheng Sun, Hongyi Wang, Lingjuan Lyu, Ang Li"
+  paper: "https://papers.nips.cc/paper_files/paper/2024/hash/28312c9491d60ed0c77f7fff4ad86dd1-Abstract-Conference.html"
+  code: "https://github.com/ATP-1010/FederatedLLM"
+- year: 2024
+  venue: "NeurIPS"
+  title: "SHED: Shapley-Based Automated Dataset Refinement for Instruction Fine-Tuning"
+  authors: "Yexiao He, Ziyao Wang, Zheyu Shen, Guoheng Sun, Yucong Dai, Yongkai Wu, Hongyi Wang, Ang Li"
+  paper: "https://proceedings.neurips.cc/paper_files/paper/2024/hash/b3cff9947cde08b4fa70652cb8ac9209-Abstract-Conference.html"
+  code: "https://github.com/CASE-Lab-UMD/SHED-Shapley-Based-Automated-Dataset-Refinement"
+- year: 2024
+  venue: "ICLR"
+  title: "FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent"
+  authors: "Ziyao Wang, Jianyu Wang, Ang Li"
+  paper: "https://proceedings.iclr.cc/paper_files/paper/2024/hash/7b9ebf1a1c149960c3452dc94cbd158e-Abstract-Conference.html"
+  code: "https://github.com/ATP-1010/FedHyper"
+- year: 2024
+  venue: "CCS"
+  title: "Moderator: Moderating Text-to-Image Diffusion Models through Fine-grained Context-based Policies"
+  authors: "Peiran Wang, Qiyu Li, Longxuan Yu, Ziyao Wang, Ang Li, Haojian Jin"
+  paper: "https://arxiv.org/abs/2408.07728"
+  award: "Distinguished Paper Award"
+- year: 2024
+  venue: "CCS"
+  title: "Beowulf: Mitigating Model Extraction Attacks via Reshaping Decision Regions"
+  authors: "Xueluan Gong, Rubin Wei, Ziyao Wang, Yuchen Sun, Jiawen Peng, Yanjiao Chen, Qian Wang"
+  paper: "https://doi.org/10.1145/3658644.3670267"
+- year: 2024
+  venue: "TDSC"
+  title: "KerbNet: A QoE-Aware Kernel-Based Backdoor Attack Framework"
+  authors: "Xueluan Gong, Yanjiao Chen, Huayang Huang, Weihan Kong, Ziyao Wang, Chao Shen, Qian Wang"
+  paper: "https://doi.org/10.1109/TDSC.2023.3286842"
+- year: 2024
+  venue: "arXiv"
+  title: "Fair Diagnosis: Leveraging Causal Modeling to Mitigate Medical Bias"
+  authors: "Bowei Tian, Yexiao He, Meng Liu, Yucong Dai, Ziyao Wang, Shwai He, Guoheng Sun, Zheyu Shen, Wanghao Ye, Yongkai Wu, Ang Li"
+  paper: "https://arxiv.org/abs/2412.04739"
+- year: 2023
+  venue: "Findings EMNLP"
+  title: "UPTON: Preventing Authorship Leakage from Public Text Release via Data Poisoning"
+  authors: "Ziyao Wang, Thai Le, Dongwon Lee"
+  paper: "https://aclanthology.org/2023.findings-emnlp.800/"
+- year: 2023
+  venue: "WWW"
+  title: "NetGuard: Protecting Commercial Web APIs from Model Inversion Attacks using GAN-generated Fake Samples"
+  authors: "Xueluan Gong, Ziyao Wang, Yanjiao Chen, Qian Wang, Cong Wang, Chao Shen"
+  paper: "https://doi.org/10.1145/3543507.3583224"
+- year: 2023
+  venue: "TIFS"
+  title: "A GAN-Based Defense Framework against Model Inversion Attacks"
+  authors: "Xueluan Gong*, Ziyao Wang*, Shuaike Li, Yanjiao Chen, Qian Wang"
+  paper: "https://doi.org/10.1109/TIFS.2023.3295944"
+  note: "* equal contribution"
+- year: 2023
+  venue: "TDSC"
+  title: "Kaleidoscope: Physical Backdoor Attacks against Deep Neural Networks with RGB Filters"
+  authors: "Xueluan Gong*, Ziyao Wang*, Yanjiao Chen, Meng Xue, Qian Wang, Chao Shen"
+  paper: "https://doi.org/10.1109/TDSC.2023.3239225"
+  note: "* equal contribution"
