@@ -37,13 +37,6 @@ My research focuses on building **collaborative, trustworthy, and deployable** f
 
 ---
 
-## Education
-
-- **University of Maryland, College Park** — Ph.D. in Electrical and Computer Engineering (Expected 2028)
-- **Wuhan University** — B.E. in Computer Engineering (2019)
-
----
-
 ## Professional Experience
 
 - **Amazon** — Research Intern (Summer 2026)
