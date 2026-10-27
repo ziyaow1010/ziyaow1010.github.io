@@ -13,6 +13,8 @@ I am a **Ph.D. student (ECE)** at the **University of Maryland, College Park**, 
 Before that, I received my **B.E. in Cyber Engineering** from **Wuhan University**, where I worked with Prof. [Qian Wang](http://nisplab.whu.edu.cn/).
 I have been fortunate to intern at **IBM Research (Summer 2024)**, **Sony AI (Summer 2025)**, and **Amazon (Summer 2026)**.
 
+**Quick links:** [Curriculum Vitae](/cv/) · [Publications](/publications/) · [Google Scholar](https://scholar.google.com/citations?user=_PdzpfAAAAAJ)
+
 ---
 
 ## 🔍 Research Interests
